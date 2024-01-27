@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, React, TypeScript, Next JS and Laravel**
+- 🔭 I’m currently working on **JavaScript, React, TypeScript, Next JS**
 
 - 🌱 Constantly learning, adapting, and pushing the boundaries of **front-end development**.
 
