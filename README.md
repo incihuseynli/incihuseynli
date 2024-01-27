@@ -25,9 +25,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, React, TypeScript, Laravel**
+- 🔭 I’m currently working on **JavaScript, React, TypeScript, Next JS and Laravel**
 
-- 🌱 I’m planning to learn **Next JS**
+- 🌱 Constantly learning, adapting, and pushing the boundaries of **front-end development**.
 
 - 📫 Feel free to reach me out **inci.huseynli0@gmail.com**
 
